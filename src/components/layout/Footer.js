@@ -76,7 +76,7 @@ export default function Footer() {
             <menu>
               <li>
                 <a
-                  href="https://www.facebook.com/"
+                  href="https://www.facebook.com/andy.mahfudin"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -85,7 +85,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.instagram.com/"
+                  href="https://www.instagram.com/andymahfudin/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
