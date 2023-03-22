@@ -42,11 +42,11 @@ export default function Footer() {
           <div className={classes.linksBlock}>
             <p>Contact</p>
             <menu>
-              <li>Some address</li>
+              <li>West Java, Indonesia</li>
               <li>
-                <p>123-456-7890</p>
+                <p>0813-8491-5126</p>
                 <a
-                  href="tel:123-456-7890"
+                  href="tel:0813-8491-5126"
                   style={{
                     textDecoration: "underline",
                     position: "relative",
@@ -57,9 +57,9 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <p>info@little-lemon.com</p>
+                <p>e-mail</p>
                 <a
-                  href="mailto:info@little-lemon.com"
+                  href="mahfudinandy@gmail.com"
                   style={{
                     textDecoration: "underline",
                     position: "relative",
