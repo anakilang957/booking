@@ -57,9 +57,9 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <p>e-mail</p>
+                <p>mahfudinandy@gmail.com</p>
                 <a
-                  href="mahfudinandy@gmail.com"
+                  href="mailto:mahfudinandy@gmail.com"
                   style={{
                     textDecoration: "underline",
                     position: "relative",
